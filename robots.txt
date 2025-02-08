@@ -1,0 +1,8 @@
+User-agent: Googlebot  
+Disallow:   
+User-agent: googlebot-image  
+User-agent: googlebot-mobile  
+Disallow:   
+User-agent: *  
+Disallow: 
+Sitemap: https://informasi1st.github.io/news/sitemap.xml
